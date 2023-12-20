@@ -1,7 +1,7 @@
 
 ## Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
 ## Qprofile 
-				STEPS AS FOLLOWS
+				@STEPS AS FOLLOWS@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1.Introduction
 2.Let's use Terraform to create an EC2 instance for Jenkins, Docker and SonarQube
